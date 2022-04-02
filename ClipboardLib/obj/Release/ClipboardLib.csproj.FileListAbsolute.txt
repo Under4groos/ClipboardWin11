@@ -1,0 +1,6 @@
+C:\Users\UnderKo\source\repos\ClipboardWin11\ClipboardLib\bin\Release\ClipboardLib.dll
+C:\Users\UnderKo\source\repos\ClipboardWin11\ClipboardLib\bin\Release\ClipboardLib.pdb
+C:\Users\UnderKo\source\repos\ClipboardWin11\ClipboardLib\obj\Release\ClipboardLib.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\ClipboardWin11\ClipboardLib\obj\Release\ClipboardLib.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\ClipboardWin11\ClipboardLib\obj\Release\ClipboardLib.dll
+C:\Users\UnderKo\source\repos\ClipboardWin11\ClipboardLib\obj\Release\ClipboardLib.pdb

@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ClipboardWin11.Controls.CiItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ClipboardWin11.Controls"
+             mc:Ignorable="d" 
+             Height="170" Width="200">
+    <Border Background="#1AFFFFFF" CornerRadius="5">
+        <Grid>
+            <Grid Margin="5">
+                <local:CLRichTextBox x:Name="text__d"></local:CLRichTextBox>
+                <Image x:Name="image__d"></Image>
+            </Grid>
+            <Border Background="#02000000" MouseLeftButtonDown="Border_MouseLeftButtonDown"/>
+        </Grid>
+        
+    </Border>
+</UserControl>
